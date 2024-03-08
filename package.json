@@ -1,5 +1,5 @@
 {
-  "name": "@ismaelmoreiraa/vision-camera-ocr",
+  "name": "vision-camera-ocr-chinese",
   "version": "2.3.1",
   "private": false,
   "description": "VisionCamera Frame Processor Plugin to provide OCR support",
